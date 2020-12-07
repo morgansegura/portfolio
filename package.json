@@ -1,0 +1,17 @@
+{
+	"name": "portfolio",
+	"version": "1.0.0",
+	"description": "The personal portfolio of Morgan Segura, Front End Web Developer",
+	"main": "index.js",
+	"scripts": {
+		"dev": "next"
+	},
+	"repository": "https://github.com/morgansegura/portfolio.git",
+	"author": "Morgan Segura",
+	"license": "MIT",
+	"dependencies": {
+		"next": "^10.0.3",
+		"react": "^17.0.1",
+		"react-dom": "^17.0.1"
+	}
+}
